@@ -28,7 +28,7 @@ eXtension，下一代扩展库。NGX函数库封装了常用的前端组件库�
 
     **效果展示**
 
-    ![umygH0.png](https://s2.ax1x.com/2019/09/26/umygH0.png)
+![umygH0.png](https://s2.ax1x.com/2019/09/26/umygH0.png)
 
 3.  ngx-csv
 
