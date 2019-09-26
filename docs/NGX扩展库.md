@@ -23,14 +23,12 @@ eXtension，下一代扩展库。NGX函数库封装了常用的前端组件库�
 
     **效果展示**
 
-    ![](https://imgchr.com/i/umy6un){width="4.34375in" height="1.96875in"}
-
+![umy6un.png](https://s2.ax1x.com/2019/09/26/umy6un.png)
 2.  ngx-codemirror
 
     **效果展示**
 
-    ![](https://imgchr.com/i/umygH0){width="5.768055555555556in"
-    height="4.6305555555555555in"}
+    ![umygH0.png](https://s2.ax1x.com/2019/09/26/umygH0.png)
 
 3.  ngx-csv
 
